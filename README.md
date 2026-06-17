@@ -1,1 +1,3 @@
-# ePortfolio_ComputerScience
+# Database Development
+
+The Database program I am showcasing in my portfolio expanded that foundation by showing me how applications depend on accurate, well-structured, and secure data. I gained experience with storing, retrieving, updating, and organizing information while considering data integrity and the relationship between the application layer and the data layer. This database program demonstrates my understanding of CRUD (Create, Read, Update, Delete) operations and how design decisions on the presentation of the database, i.e. graphs and maps, affect the analysis of the data. Whether working with structured records, queries, or persistent application data, I learned that strong database design supports better software behavior and better decision-making for users.

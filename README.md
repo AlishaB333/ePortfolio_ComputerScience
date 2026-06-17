@@ -4,7 +4,7 @@ Completing my coursework throughout the Computer Science program and developing 
 
 The program strengthened my interest in software development that is reliable, understandable, and useful to real users. I value solutions that are not only functional, but also organized, efficient, secure, and maintainable. Developing the ePortfolio reinforced those values because it required me to revisit prior work, evaluate it critically, and enhance it beyond its original course requirements. Such as making a database more dynamic by adding additional data filtering and graphs to present the data.
 
-<u>Collaboration in a Team Environment</u>
+### <ins>Collaboration in a Team Environment</ins>
 Collaboration was an important part of my development because it taught me that successful software projects depend on more than individual technical ability. In a team it is imperative to coordinate responsibilities, listen to different approaches, and contribute work that could be understood and built upon by others. Even when working independently, I learned to write code and explanations as if another developer would later maintain or extend my work. That mindset is essential in a professional setting because software is rarely owned by one person forever.
 I have learned that effective communication means adapting the level of detail to the audience. A technical reviewer may need to understand implementation decisions, data flow, or algorithmic tradeoffs, while a nontechnical stakeholder may need to understand how a change improves usability, reliability, security, or business value.
 
